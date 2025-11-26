@@ -18,4 +18,4 @@ These checklists are designed to be lightweight, copy-friendly, and applicable t
 
 
 ## License
-MIT
+CC0 1.0 Universal
