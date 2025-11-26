@@ -1,6 +1,6 @@
 # Backend Readiness Checklist
 
-A collection of practical, battle-tested checklists for backend engineering teams.
+A collection of practical, battle-tested checklists to ensure backend services are production-ready, reliable, and easy to operate.
 
 This repository includes:
 - API Readiness Checklist
