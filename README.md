@@ -12,9 +12,9 @@ These checklists are designed to be lightweight, copy-friendly, and applicable t
 
 
 ## Contents
-- `api-checklist.md` — Ensure your API is resilient, predictable, and ready for consumers.
-- `production-checklist.md` — Validate that your service is prepared for real-world traffic.
-- `oncall-quickstart.md` — A fast-start guide for effective incident response.
+- [`api-checklist.md`](/api-checklist.md): Ensure your API is resilient, predictable, and ready for consumers.
+- [`production-checklist.md`](/production-checklist.md): Validate that your service is prepared for real-world traffic.
+- [`oncall-quickstart.md`](/oncall-quickstart.md): A fast-start guide for effective incident response.
 
 
 ## License
